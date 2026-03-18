@@ -12,7 +12,7 @@ Write a Python program that:
 3. Displays the result accordingly.  
 
 ### Expected Output
-The program should return an output like:
+The program should return an output 
 
 
 
@@ -28,3 +28,4 @@ Write a Python program that:
 3. Displays the final sum.  
 
 ### Expected Output
+The program should return an output 
