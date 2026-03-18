@@ -1,8 +1,0 @@
-#ASSIGNMENT 2:Module 3: Control Structures in Python
-#Task 1: Check if a Number is Even or Odd
-num=int(input("enter number:"))
-if num%2==0:
-    print("number entered is even")
-else:
-    print("number entered is odd")
-
